@@ -519,3 +519,13 @@ hr {
 #footer a {
 	color: #0F0F0F;
 }
+
+table{
+	text-align: center;
+}
+
+table, th, td{
+	border: 1px solid rgb(255, 255, 255);
+	border-collapse: collapse;
+	font-size: 13px;
+}
