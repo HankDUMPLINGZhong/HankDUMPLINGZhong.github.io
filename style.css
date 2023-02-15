@@ -249,7 +249,7 @@ hr {
 
 #splash .col1 {
 	float: left;
-	width: 660px;
+	width: 0px;
 }
 
 #splash .col2 {
@@ -259,10 +259,11 @@ hr {
 
 #splash blockquote {
 	margin: 0px;
-	padding: 50px 30px;
+	padding: 25px 25px;
+	height:auto;
 	text-shadow: 1px 1px 4px #BC2A00;
 	font-family: Georgia, "Times New Roman", Times, serif;
-	font-size: 30px;
+	font-size: 26px;
 	font-style: italic;
 	color: #FFFFFF;
 }
