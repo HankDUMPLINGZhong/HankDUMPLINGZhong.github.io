@@ -45,6 +45,7 @@ ul, ol {
 
 blockquote {
 	font-size: 12px;
+	text-transform: capitalize;
 }
 
 a {
