@@ -115,12 +115,12 @@ hr {
 }
 
 #logo h1{
-	padding: 0px 0px 0px 10px
+	padding: 0px 10px 0px 0px
 }
 
 #logo h1, #logo p {
 	margin: 0px;
-	line-height: 1.15em;
+	line-height: 1.3em;
 	font-weight: normal;
 	color: #FFFFFF;
 	text-transform: none;
