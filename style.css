@@ -391,6 +391,7 @@ hr {
 
 #sidebar li ul {
 	margin: 0px 0px;
+	text-align: left;
 	border: none;
 }
 
@@ -408,7 +409,7 @@ hr {
 }
 
 #sidebar li li a:hover {
-	color: #666666;
+	color: #0f0bf0;
 }
 
 #sidebar p {
@@ -419,7 +420,7 @@ hr {
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 20px 0px;
 	letter-spacing: -1px;
-	text-transform: lowercase;
+	text-align: left;
 	font-size: 28px;
 	font-weight: normal;
 	color: #FFFFFF;
